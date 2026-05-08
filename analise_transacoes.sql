@@ -1,7 +1,5 @@
 -- ============================================================
 -- PROJETO: Análise de Transações Financeiras
--- Autora:  Ana Carolina Bacelar França Lira
--- Curso:   Formação em Análise de Dados — EBA Renata Biaggi
 -- Ferram.: BigQuery (Google Cloud)
 -- ============================================================
 
